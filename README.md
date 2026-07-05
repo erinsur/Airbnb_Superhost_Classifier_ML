@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project demonstrates an end-to-end machine learning workflow for building and selecting a Logistic Regression model for binary classification. The notebook walks through data preprocessing, model training, hyperparameter tuning, and model serialization to identify the best-performing model configuration.
+This project from Break Through Tech demonstrates a simple end-to-end machine learning workflow for building and selecting a Logistic Regression model for binary classification. The notebook walks through data preprocessing, model training, hyperparameter tuning, and model serialization to identify the best-performing model configuration.
 
 ## Objectives
 
